@@ -1,0 +1,9 @@
+{
+    "name": "com.hyoga.glacierui",
+    "displayName": "GlacierUI",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "description": "A UI library on the MV(R)P design pattern for Unity. Using UniRx and UniTask.",
+    "license": "MIT",
+    "dependencies": {}
+}
