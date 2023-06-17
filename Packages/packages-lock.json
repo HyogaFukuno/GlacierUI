@@ -7,12 +7,6 @@
       "dependencies": {},
       "hash": "f2773f585e762480c835ac718b82b87cb111e500"
     },
-    "com.glacier.glacierui": {
-      "version": "file:GlacierUI",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.neuecc.unirx": {
       "version": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
       "depth": 0,
