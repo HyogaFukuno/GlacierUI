@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Hoge Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Hoge Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 33daf38c5280af740a7ace25d150d8a4
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 87273eb4b05d2c44abd71465b9684fbe, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ea734c733c664334ea1b05aca94fe0b5, type: 2}
+    - {fileID: 11400000, guid: 9a6ddcf516dd249468fe0002bb588cc4, type: 2}
